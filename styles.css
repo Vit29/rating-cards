@@ -71,7 +71,7 @@ body {
 
 .button-rating {
   width: 45px;
-  height: 45px;
+  padding: 15px;
   border-radius: 50px;
   border: none;
   background-color: var(--Light-Grey);
@@ -130,4 +130,5 @@ body {
 .show-tankyou {
   right: 0;
   opacity: 100%;
+
 }

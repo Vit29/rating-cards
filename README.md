@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/Vit29/rating-card/tree/main/interactive-rating-component-main)
+- Solution URL: [@Vit29](https://www.frontendmentor.io/solutions/interactive-rating-component-with-an-animation-to-switch-between-cards-AlhVoL73Jo)
 
 
 ## My process
